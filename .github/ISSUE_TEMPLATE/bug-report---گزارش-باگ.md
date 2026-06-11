@@ -1,13 +1,3 @@
----
-name: Bug report | گزارش باگ
-about: Create a report to help us improve | اگر مشکل یا خطایی در سینمای گروهی پیدا
-  کردی، اینجا گزارش بده.
-title: "[BUG]"
-labels: bug
-assignees: ''
-
----
-
 **📝 شرح مشکل**
 یک توضیح واضح و مختصر از مشکل چیست.
 
