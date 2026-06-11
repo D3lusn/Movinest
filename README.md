@@ -4,7 +4,7 @@
 
 ## نسخه 9.3
 
-## امکانات
+### امکانات
 - ساخت اتاق خصوصی با کد
 - پخش هماهنگ ویدیو (YouTube، MP4، M3U8)
 - چت گروهی
@@ -13,7 +13,7 @@
 - ارسال اعلان سراسری
 - فرم ثبت نظر و پیشنهاد
 
-## نصب و اجرا
+### نصب و اجرا
 ```bash
 npm install
 node server.js
@@ -26,7 +26,7 @@ A platform for watching movies and videos in groups with chat capabilities, room
 
 ## Version 9.3
 
-## Features
+### Features
 - Create a private room with code
 - Synchronized video playback (YouTube, MP4, M3U8)
 - Group chat
@@ -35,7 +35,7 @@ A platform for watching movies and videos in groups with chat capabilities, room
 - Send global notifications
 - Comment and suggestion form
 
-## Installation and execution
+### Installation and execution
 ```bash
 npm install
 node server.js
