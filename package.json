@@ -1,0 +1,16 @@
+{
+  "name": "watchparty",
+  "version": "9.0.0",
+  "description": "پلتفرم تماشای گروهی فیلم با فرم نظرات، پنل ادمین کامل و طراحی مدرن",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.6.1"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
