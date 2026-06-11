@@ -26,7 +26,7 @@
 **📌 اطلاعات اضافه**
 هر نکته دیگری که به حل مشکل کمک می‌کند، اینجا بنویس.
 
-* English *
+# English
 
 **📝 Problem Description**
 A clear and concise explanation of what the problem is.
