@@ -4,7 +4,7 @@
 
 ## چگونه می‌توانید کمک کنید؟
 
-- **گزارش باگ (Bug)**: اگر مشکلی در کار پروژه دیدید، از طریق [Issues](https://github.com/D3lusn/watchparty/issues) گزارش دهید.
+- **گزارش باگ (Bug)**: اگر مشکلی در کار پروژه دیدید، از طریق [Issues](.github/ISSUE_TEMPLATE/bug-report---گزارش-باگ.md) گزارش دهید.
 - **پیشنهاد قابلیت جدید**: ایده‌های خود را در بخش Issues مطرح کنید.
 - **بهبود کد**: می‌توانید اشکالات را رفع کنید یا قابلیت جدید اضافه کنید و سپس Pull Request بفرستید.
 - **بهبود مستندات**: خوانایی README، اضافه کردن توضیحات بیشتر یا رفع اشکالات تایپی.
@@ -25,5 +25,5 @@
 2. مخزن را **Fork** کنید (در گیت‌هاب دکمه Fork).
 3. در کامپیوتر خود، فورک شده را clone کنید:
    ```bash
-   git clone https://github.com/D3lusn/watchparty.git
+   git clone .github/ISSUE_TEMPLATE/bug-report---گزارش-باگ.md
    cd watchparty
