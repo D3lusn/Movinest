@@ -25,5 +25,5 @@
 2. مخزن را **Fork** کنید (در گیت‌هاب دکمه Fork).
 3. در کامپیوتر خود، فورک شده را clone کنید:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/watchparty.git
+   git clone https://github.com/D3lusn/watchparty.git
    cd watchparty
