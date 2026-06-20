@@ -1,19 +1,14 @@
-# config.yml - تنظیمات صفحه انتخاب قالب ایشو
-
-# آیا کاربران اجازه دارند یک ایشوی خالی (بدون قالب) باز کنند؟
-# true یعنی بله، false یعنی خیر (فقط قالب‌ها را می‌بینند)
 blank_issues_enabled: false
 
-# لینک‌های تماس خارج از گیت‌هاب که در کنار قالب‌ها نمایش داده می‌شوند
 contact_links:
   - name: 💬 کانال تلگرام پشتیبانی
     url: https://t.me/movinestir
     about: برای پرسش‌های سریع یا پیشنهادات لحظه‌ای به کانال ما بپیوندید.
 
   - name: 📧 پشتیبانی ایمیل
-    url: mailto:your-email@example.com
+    url: -
     about: اگر مسئله‌ای خصوصی دارید، می‌توانید ایمیل بزنید.
 
   - name: ❓ راهنمای سریع
-    url: https://github.com/YOUR_USERNAME/watchparty/blob/main/README.md
+    url: https://github.com/D3lusn/Movinest/blob/main/README.md
     about: حتماً ابتدا README پروژه را بخوانید، شاید پاسخ سوال شما آنجا باشد.
